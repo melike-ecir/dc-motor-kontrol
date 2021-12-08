@@ -1,0 +1,2 @@
+>>> Warning 207 "111.c" Line 70(1,1): Code has no effect
+*** Error 76 "111.c" Line 71(7,17): Expect ;

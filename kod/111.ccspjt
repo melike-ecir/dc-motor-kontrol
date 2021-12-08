@@ -1,0 +1,23 @@
+[PROJECT]
+Target=111.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.007
+Compiler=PCM
+CCSVersion=5.007
+[Target Data]
+FileList=111.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Users\Lenovo\Desktop\kodd\
+[C:\Users\Lenovo\Desktop\kodd\111]
+Type=4
+[mru-list]
+1=111.c
+[Opened Files]
+1=111.c
+2=111.h
+3=
+[111.c]
+Type=4
+[Units]
+Count=1
+1=111 (main)
