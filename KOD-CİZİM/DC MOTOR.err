@@ -1,0 +1,8 @@
+*** Error 18 "DC MOTOR.c" Line 1(9,16): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\111.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\111.h"
+    Not in project "C:\Users\ASUS\Desktop\ARAÞTIRMA PROJESÝ\KOD-ÇÝZÝM\111.h"
+    Not in local "C:\Users\ASUS\Desktop\ENGELDEN KAÇAN ARAÇ\111.h"
+*** Error 128 "C:\Program Files (x86)\PICC\Drivers\lcd.c" Line 76(9,15): A #DEVICE required before this line
+      2 Errors,  0 Warnings.
+Build Failed.
